@@ -1,5 +1,8 @@
-0066dacb2a71d49782a796e8b8ccbaa220e5d0c8 *./AbeoScan.exe
+ef6cf117d2b2cb04a1767a19f18828c461654a57 *./AbeoScan.exe
+25cf98d5d7842e35383e60ffb20eeff565de0f76 *./iconengines/qsvgicon.dll
 a3b2d82aef1b48ad2c5f5e432d8323e1b90092df *./lotus_qt_v142_x64.dll
+3a3e7791fa060e0736eab0de0e28c51a1146e7c8 *./platforms/qminimal.dll
+d4f387bbd743e8c6e05c271c727f04c9bf14e805 *./platforms/qoffscreen.dll
 ba35c2806b05cfbc6887c6a496fb619ff8895a0b *./platforms/qwindows.dll
 bc9f6b845cac8111a36facd77c92ce7a55d64b5c *./push.sh
 a6ad40b8b279597ad8fc64cbeb14bf0da2f05baf *./Qt53DCore.dll
@@ -9,3 +12,4 @@ a6ad40b8b279597ad8fc64cbeb14bf0da2f05baf *./Qt53DCore.dll
 718efe1a47ef21d818bfebd8ebbbe49313501e46 *./Qt5OpenGL.dll
 44b8d21b340879443d205a4d1738032cbc615298 *./Qt5Svg.dll
 da09a322fc30fe242d6146509b285e694a560be7 *./Qt5Widgets.dll
+54f8ec7fd823262c8a9b31329814d182e0354f18 *./styles/qwindowsvistastyle.dll
